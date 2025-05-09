@@ -1,6 +1,6 @@
 👋 Hi, I'm Christopher Coleman, a Data & Analytics Leader passionate about using data to make positive impacts.
 
-🔍 With over 10 years of experience leading data teams, I specialize in:
+🔍 With over 20 years of experience leading data teams, I specialize in:
 
 📊 Building scalable analytics platforms and data pipelines
 
